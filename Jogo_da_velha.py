@@ -99,7 +99,7 @@ while True:
                         r = int(input('Digite a linha da jogada: '))
                         c = int(input('Digite a coluna da sua jogada: '))
                         
-        #Variáveis que verifica a vitória do jogador           
+        #Variáveis que verificam a vitória do jogador           
         vitoriaX = 0
         vitoriaO = 0
 
